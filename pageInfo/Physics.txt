@@ -1,0 +1,106 @@
+1: Principles of Physics 2: Numerical Book 3: old is gold 
+
+DC Circuits
+1:
+2:
+3:
+Gravitation
+1:
+2:
+3:
+Ideal Gas
+1:
+2:
+3:
+Capacitor
+1:
+2:
+3:
+Circular Motion
+1:
+2:
+3:
+Dynamics
+1:
+2:
+3:
+Nuclear Physics
+1:
+2:
+3:
+Quantity of Heat
+1:
+2:
+3:
+Recent Trends in Physics
+1:
+2:
+3:
+Work, Energy and Power
+1:
+2:
+3:
+Elasticity
+1:
+2:
+3:
+Kinematics
+1:solved problems,self test questions, conceptual questions(very short), conceptual questions(short), exercise (group A), exercise (group B), exercise (group C)|22, 12, 26,24,40,10,8
+2:equations of motion examples, equations of motion exercise, relative velocity examples, relative velocity exercise, projectiles examples, projectiles exercise |23,26,14,16,19,17
+3: xaina aile | 89
+Rate of Heat Flow
+1:
+2:
+3:
+Potential, Potential Difference and Potential Energy
+1:
+2:
+3:
+Refraction at Plane Surfaces
+1:
+2:
+3:
+Thermal Expansion
+1:
+2:
+3:
+Vectors
+1:
+2:
+3:
+Dispersion
+1:
+2:
+3:
+Electric Charges
+1:
+2:
+3:
+Electric Field
+1:
+2:
+3:
+Heat and Temperature
+1:
+2:
+3:
+Lenses
+1:
+2:
+3:
+Physical Quantities
+1:
+2:
+3:
+Refraction Through Prisms
+1:
+2:
+3:
+Solids
+1:
+2:
+3:
+Reflection at Curved Mirror
+1:
+2:
+3:
